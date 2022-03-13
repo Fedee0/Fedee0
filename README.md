@@ -1,5 +1,15 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Fedee</h1>
-<h3 align="center">Pluginner, Developer and Translator</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;I'm+Fedee....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer+-+Pluginner+-+Translator&center=true&size=20">
+  </a>
+</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fedee0" alt="Fedee0" /> </p>
 
 - 🔭 I’m currently working on: Minecraft Servers!
