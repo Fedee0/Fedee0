@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on: Minecraft Servers!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn Java and SpigotAPI
+- 🥅 2023 Goals: Learn Java and SpigotAPI
 
 ### Stats: 
 
